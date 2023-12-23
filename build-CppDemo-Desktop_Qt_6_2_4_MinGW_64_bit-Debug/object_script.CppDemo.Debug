@@ -1,0 +1,10 @@
+debug/BitConverter.o
+debug/Dashboard.o
+debug/DobotClient.o
+debug/DobotMove.o
+debug/ErrorInfoBean.o
+debug/ErrorInfoHelper.o
+debug/Feedback.o
+debug/main.o
+debug/Form.o
+debug/moc_Form.o

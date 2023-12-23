@@ -1,0 +1,10 @@
+release/BitConverter.o
+release/Dashboard.o
+release/DobotClient.o
+release/DobotMove.o
+release/ErrorInfoBean.o
+release/ErrorInfoHelper.o
+release/Feedback.o
+release/main.o
+release/Form.o
+release/moc_Form.o
