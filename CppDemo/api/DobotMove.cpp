@@ -173,7 +173,7 @@ namespace Dobot
         {
             return str + ":send error";
         }
-        return WaitReply(5000);
+        return WaitReply(5000000);
     }
 
     std::string CDobotMove::RelMovJUser(const CDescartesPoint &pt, int User)
